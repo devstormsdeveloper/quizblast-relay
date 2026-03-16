@@ -1,1 +1,1 @@
-# ClassroomGame Relay Server
+# QuizBlast Relay Server
